@@ -1,0 +1,19 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1000 500.0000000000001" style="overflow: hidden;border: 2px solid #888888;"> 
+<text dominant-baseline="middle"  x="793.356642" y="255.594406" font-size="30">Enter</text>
+<text dominant-baseline="middle"  x="793.356642" y="380.594406" font-size="30">M1</text>
+<text dominant-baseline="middle"  x="718.356642" y="380.594406" font-size="30">I1</text>
+<text dominant-baseline="middle"  x="293.356642" y="380.594406" font-size="30">P1</text>
+<text dominant-baseline="middle"  x="168.356642" y="380.594406" font-size="30">M2</text>
+<text dominant-baseline="middle"  x="168.356642" y="305.594406" font-size="30">I2</text>
+<text dominant-baseline="middle"  x="168.356642" y="230.594406" font-size="30">M3</text>
+<text dominant-baseline="middle"  x="93.356642" y="230.594406" font-size="30">Exit</text>
+<text dominant-baseline="middle"  x="168.356642" y="105.594406" font-size="30">L1</text>
+<text dominant-baseline="middle"  x="168.356642" y="55.594406" font-size="30">Camera1</text>
+<polyline points="93,230 168,230 168,380 293,380 793,380 793,255 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="168,55 168,230 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+
+</svg>
+
+
+

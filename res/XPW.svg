@@ -1,0 +1,29 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1000 285.7142857142857" style="overflow: hidden;border: 2px solid #888888;"> 
+<text dominant-baseline="middle"  x="827.022977" y="183.416583" font-size="30">Enter</text>
+<text dominant-baseline="middle"  x="827.022977" y="165.559440" font-size="30">M1</text>
+<text dominant-baseline="middle"  x="112.737263" y="165.559440" font-size="30">M2</text>
+<text dominant-baseline="middle"  x="112.737263" y="147.702297" font-size="30">M3</text>
+<text dominant-baseline="middle"  x="130.594406" y="147.702297" font-size="30">L1</text>
+<text dominant-baseline="middle"  x="148.451549" y="147.702297" font-size="30">X1</text>
+<text dominant-baseline="middle"  x="880.594406" y="147.702297" font-size="30">M4</text>
+<text dominant-baseline="middle"  x="141.308691" y="129.845154" font-size="30">M5</text>
+<text dominant-baseline="middle"  x="480.594406" y="129.845154" font-size="30">X3</text>
+<text dominant-baseline="middle"  x="898.451549" y="129.845154" font-size="30">M6</text>
+<text dominant-baseline="middle"  x="177.022977" y="111.988011" font-size="30">M7</text>
+<text dominant-baseline="middle"  x="516.308691" y="129.845154" font-size="30">X4</text>
+<text dominant-baseline="middle"  x="880.594406" y="122.702297" font-size="30">M8</text>
+<text dominant-baseline="middle"  x="880.594406" y="104.845154" font-size="30">M9</text>
+<text dominant-baseline="middle"  x="809.165834" y="104.845154" font-size="30">L2</text>
+<text dominant-baseline="middle"  x="141.308691" y="101.273726" font-size="30">M10</text>
+<text dominant-baseline="middle"  x="827.022977" y="104.845154" font-size="30">M11</text>
+<text dominant-baseline="middle"  x="105.594406" y="101.273726" font-size="30">M12</text>
+<text dominant-baseline="middle"  x="105.594406" y="172.702297" font-size="30">Exit</text>
+<text dominant-baseline="middle"  x="127.022977" y="129.845154" font-size="30">Camera1</text>
+<polyline points="105,172 105,101 827,104 141,101 880,104 880,122 177,111 898,129 141,129 880,147 112,147 112,165 827,165 827,183 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="127,129 141,129 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+
+</svg>
+
+
+

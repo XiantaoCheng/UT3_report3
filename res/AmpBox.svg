@@ -1,0 +1,70 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1000 450.0" style="overflow: hidden;border: 2px solid #888888;"> 
+<text dominant-baseline="middle"  x="250.000000" y="50.000000" font-size="30">Enter1</text>
+<text dominant-baseline="middle"  x="250.000000" y="150.000000" font-size="30">M1</text>
+<text dominant-baseline="middle"  x="500.000000" y="125.000000" font-size="30">TS1</text>
+<text dominant-baseline="middle"  x="750.000000" y="100.000000" font-size="30">MA1</text>
+<text dominant-baseline="middle"  x="750.000000" y="150.000000" font-size="30">MA2</text>
+<text dominant-baseline="middle"  x="225.000000" y="105.000000" font-size="30">MB1</text>
+<text dominant-baseline="middle"  x="225.000000" y="145.000000" font-size="30">MB2</text>
+<text dominant-baseline="middle"  x="775.000000" y="105.000000" font-size="30">MA3</text>
+<text dominant-baseline="middle"  x="775.000000" y="145.000000" font-size="30">MA4</text>
+<text dominant-baseline="middle"  x="200.000000" y="110.000000" font-size="30">MB3</text>
+<text dominant-baseline="middle"  x="200.000000" y="140.000000" font-size="30">MB4</text>
+<text dominant-baseline="middle"  x="800.000000" y="110.000000" font-size="30">M2</text>
+<text dominant-baseline="middle"  x="800.000000" y="160.000000" font-size="30">M3</text>
+<text dominant-baseline="middle"  x="525.000000" y="160.000000" font-size="30">I1</text>
+<text dominant-baseline="middle"  x="500.000000" y="160.000000" font-size="30">M4</text>
+<text dominant-baseline="middle"  x="500.000000" y="335.000000" font-size="30">M5</text>
+<text dominant-baseline="middle"  x="325.000000" y="335.000000" font-size="30">M6</text>
+<text dominant-baseline="middle"  x="325.000000" y="360.000000" font-size="30">M7</text>
+<text dominant-baseline="middle"  x="350.000000" y="360.000000" font-size="30">I2</text>
+<text dominant-baseline="middle"  x="525.000000" y="360.000000" font-size="30">I3</text>
+<text dominant-baseline="middle"  x="565.000000" y="360.000000" font-size="30">L1</text>
+<text dominant-baseline="middle"  x="715.000000" y="360.000000" font-size="30">L2</text>
+<text dominant-baseline="middle"  x="775.000000" y="360.000000" font-size="30">M8</text>
+<text dominant-baseline="middle"  x="775.000000" y="270.000000" font-size="30">M9</text>
+<text dominant-baseline="middle"  x="500.000000" y="300.000000" font-size="30">TS2</text>
+<text dominant-baseline="middle"  x="800.000000" y="315.000000" font-size="30">MD1</text>
+<text dominant-baseline="middle"  x="800.000000" y="275.000000" font-size="30">MD2</text>
+<text dominant-baseline="middle"  x="250.000000" y="325.000000" font-size="30">MC1</text>
+<text dominant-baseline="middle"  x="250.000000" y="275.000000" font-size="30">MC2</text>
+<text dominant-baseline="middle"  x="225.000000" y="320.000000" font-size="30">M10</text>
+<text dominant-baseline="middle"  x="225.000000" y="245.000000" font-size="30">M11</text>
+<text dominant-baseline="middle"  x="800.000000" y="245.000000" font-size="30">M12</text>
+<text dominant-baseline="middle"  x="350.000000" y="220.000000" font-size="30">M13</text>
+<text dominant-baseline="middle"  x="350.000000" y="50.000000" font-size="30">Exit</text>
+<text dominant-baseline="middle"  x="150.000000" y="65.000000" font-size="30">Enter2</text>
+<text dominant-baseline="middle"  x="175.000000" y="65.000000" font-size="30">SP1</text>
+<text dominant-baseline="middle"  x="175.000000" y="90.000000" font-size="30">L3</text>
+<text dominant-baseline="middle"  x="175.000000" y="125.000000" font-size="30">M14</text>
+<text dominant-baseline="middle"  x="375.000000" y="65.000000" font-size="30">Tube1</text>
+<text dominant-baseline="middle"  x="825.000000" y="65.000000" font-size="30">M15</text>
+<text dominant-baseline="middle"  x="825.000000" y="75.000000" font-size="30">L4</text>
+<text dominant-baseline="middle"  x="825.000000" y="125.000000" font-size="30">M16</text>
+<text dominant-baseline="middle"  x="150.000000" y="220.000000" font-size="30">Enter3</text>
+<text dominant-baseline="middle"  x="210.000000" y="220.000000" font-size="30">M17</text>
+<text dominant-baseline="middle"  x="210.000000" y="300.000000" font-size="30">M18</text>
+<text dominant-baseline="middle"  x="150.000000" y="355.000000" font-size="30">Enter4</text>
+<text dominant-baseline="middle"  x="195.000000" y="355.000000" font-size="30">L5</text>
+<text dominant-baseline="middle"  x="210.000000" y="355.000000" font-size="30">M19</text>
+<text dominant-baseline="middle"  x="210.000000" y="305.000000" font-size="30">M20</text>
+<text dominant-baseline="middle"  x="150.000000" y="90.000000" font-size="30">Enter5</text>
+<text dominant-baseline="middle"  x="185.000000" y="90.000000" font-size="30">Tube2</text>
+<text dominant-baseline="middle"  x="840.000000" y="90.000000" font-size="30">M21</text>
+<text dominant-baseline="middle"  x="840.000000" y="160.000000" font-size="30">L6</text>
+<text dominant-baseline="middle"  x="840.000000" y="295.000000" font-size="30">M22</text>
+<text dominant-baseline="middle"  x="825.000000" y="400.000000" font-size="30">Enter6</text>
+<text dominant-baseline="middle"  x="825.000000" y="300.000000" font-size="30">M23</text>
+<polyline points="350,49 350,220 800,245 225,245 225,320 800,275 800,315 250,275 250,325 775,270 775,360 325,360 325,335 500,335 500,159 800,159 800,109 199,139 199,109 775,145 775,104 224,145 224,104 750,150 750,99 250,150 250,49 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="500,124 175,124 175,64 150,64 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="500,124 825,124 825,64 375,64 175,64 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="500,300 210,300 210,220 150,220 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="500,300 210,305 210,355 150,355 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="500,300 840,295 840,90 150,90 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="500,300 825,300 825,399 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+
+</svg>
+
+
+

@@ -1,0 +1,42 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1000 500.0" style="overflow: hidden;border: 2px solid #888888;"> 
+<text dominant-baseline="middle"  x="272.727273" y="136.363636" font-size="30">Enter</text>
+<text dominant-baseline="middle"  x="272.727273" y="181.818182" font-size="30">M1</text>
+<text dominant-baseline="middle"  x="200.000000" y="181.818182" font-size="30">M2</text>
+<text dominant-baseline="middle"  x="200.000000" y="272.727273" font-size="30">M3</text>
+<text dominant-baseline="middle"  x="290.909091" y="272.727273" font-size="30">I1</text>
+<text dominant-baseline="middle"  x="563.636364" y="272.727273" font-size="30">SP1</text>
+<text dominant-baseline="middle"  x="654.545455" y="272.727273" font-size="30">L1</text>
+<text dominant-baseline="middle"  x="700.000000" y="272.727273" font-size="30">I2</text>
+<text dominant-baseline="middle"  x="727.272727" y="272.727273" font-size="30">L2</text>
+<text dominant-baseline="middle"  x="772.727273" y="272.727273" font-size="30">M4</text>
+<text dominant-baseline="middle"  x="745.454545" y="209.090909" font-size="30">PR1</text>
+<text dominant-baseline="middle"  x="672.727273" y="172.727273" font-size="30">PR2</text>
+<text dominant-baseline="middle"  x="609.090909" y="200.000000" font-size="30">G1</text>
+<text dominant-baseline="middle"  x="400.000000" y="381.818182" font-size="30">G2</text>
+<text dominant-baseline="middle"  x="427.272727" y="223.090909" font-size="30">G3</text>
+<text dominant-baseline="middle"  x="309.090909" y="381.818182" font-size="30">G4</text>
+<text dominant-baseline="middle"  x="127.272727" y="345.454545" font-size="30">PR3</text>
+<text dominant-baseline="middle"  x="34.909091" y="276.181818" font-size="30">PR4</text>
+<text dominant-baseline="middle"  x="34.909091" y="183.818182" font-size="30">M5</text>
+<text dominant-baseline="middle"  x="772.727273" y="327.272727" font-size="30">M6</text>
+<text dominant-baseline="middle"  x="954.545455" y="327.272727" font-size="30">Exit</text>
+<text dominant-baseline="middle"  x="200.000000" y="363.636364" font-size="30">L3</text>
+<text dominant-baseline="middle"  x="200.000000" y="390.909091" font-size="30">M7</text>
+<text dominant-baseline="middle"  x="745.454545" y="390.909091" font-size="30">M8</text>
+<text dominant-baseline="middle"  x="563.636364" y="354.545455" font-size="30">Camera1</text>
+<text dominant-baseline="middle"  x="772.727273" y="372.727273" font-size="30">M9</text>
+<text dominant-baseline="middle"  x="800.000000" y="290.909091" font-size="30">L4</text>
+<text dominant-baseline="middle"  x="818.181818" y="272.727273" font-size="30">Camera2</text>
+<text dominant-baseline="middle"  x="563.636364" y="90.909091" font-size="30">M10</text>
+<text dominant-baseline="middle"  x="654.545455" y="90.909091" font-size="30">X1</text>
+<text dominant-baseline="middle"  x="700.000000" y="90.909091" font-size="30">DT1</text>
+<polyline points="954,327 772,327 745,209 672,172 609,200 399,381 427,223 309,381 127,345 34,276 34,183 34,276 127,345 309,381 427,223 399,381 609,200 672,172 745,209 772,272 563,272 199,272 199,181 272,181 272,136 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="563,354 745,390 199,390 199,272 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="818,272 772,372 772,327 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="700,90 563,90 563,272 " style="fill:none;stroke:rgb(0,0,0);stroke-width:5;fill-rule:evenodd;" />
+
+</svg>
+
+...
+
