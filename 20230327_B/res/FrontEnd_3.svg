@@ -1,0 +1,73 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1000 423.07692307692304" style="overflow: hidden;border: 2px solid #888888;"> 
+<text dominant-baseline="middle"  x="248.951049" y="116.783217" font-size="15">Enter</text>
+<text dominant-baseline="middle"  x="248.951049" y="178.321678" font-size="15">M1</text>
+<text dominant-baseline="middle"  x="195.104895" y="178.321678" font-size="15">M2</text>
+<text dominant-baseline="middle"  x="195.104895" y="243.706294" font-size="15">M3</text>
+<text dominant-baseline="middle"  x="275.874126" y="243.706294" font-size="15">I1</text>
+<text dominant-baseline="middle"  x="598.951049" y="243.706294" font-size="15">SP1</text>
+<text dominant-baseline="middle"  x="691.258741" y="243.706294" font-size="15">L1</text>
+<text dominant-baseline="middle"  x="729.720280" y="243.706294" font-size="15">I2</text>
+<text dominant-baseline="middle"  x="752.797203" y="243.706294" font-size="15">L2</text>
+<text dominant-baseline="middle"  x="788.951049" y="243.706294" font-size="15">M4</text>
+<text dominant-baseline="middle"  x="773.566433" y="197.552448" font-size="15">PR1</text>
+<text dominant-baseline="middle"  x="730.489510" y="166.783217" font-size="15">PR2</text>
+<text dominant-baseline="middle"  x="614.335664" y="182.167832" font-size="15">G1</text>
+<text dominant-baseline="middle"  x="410.489510" y="336.013986" font-size="15">G2</text>
+<text dominant-baseline="middle"  x="468.181818" y="197.552448" font-size="15">G3</text>
+<text dominant-baseline="middle"  x="306.643356" y="328.321678" font-size="15">G4</text>
+<text dominant-baseline="middle"  x="133.566433" y="305.244755" font-size="15">PR3</text>
+<text dominant-baseline="middle"  x="72.027972" y="243.706294" font-size="15">PR4</text>
+<text dominant-baseline="middle"  x="72.027972" y="179.090909" font-size="15">M5</text>
+<text dominant-baseline="middle"  x="788.951049" y="305.244755" font-size="15">M6</text>
+<text dominant-baseline="middle"  x="912.027972" y="305.244755" font-size="15">Exit</text>
+<text dominant-baseline="middle"  x="195.104895" y="332.937063" font-size="15">L3</text>
+<text dominant-baseline="middle"  x="195.104895" y="363.706294" font-size="15">M7</text>
+<text dominant-baseline="middle"  x="715.104895" y="363.706294" font-size="15">M8</text>
+<text dominant-baseline="middle"  x="576.643356" y="348.321678" font-size="15">Camera1</text>
+<text dominant-baseline="middle"  x="788.951049" y="359.090909" font-size="15">M9</text>
+<text dominant-baseline="middle"  x="827.412587" y="279.860140" font-size="15">L4</text>
+<text dominant-baseline="middle"  x="710.489510" y="232.167832" font-size="15">Camera2</text>
+<text dominant-baseline="middle"  x="598.951049" y="89.860140" font-size="15">M10</text>
+<text dominant-baseline="middle"  x="675.874126" y="89.860140" font-size="15">X1</text>
+<text dominant-baseline="middle"  x="714.335664" y="89.860140" font-size="15">DT1</text>
+<polyline points="912,305 788,305 773,197 730,166 614,182 410,336 468,197 306,328 133,305 72,243 72,179 72,243 133,305 306,328 468,197 410,336 614,182 730,166 773,197 788,243 598,243 195,243 195,178 248,178 248,116 " style="fill:none;stroke:rgb(255,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="576,348 715,363 195,363 195,243 " style="fill:none;stroke:rgb(255,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="710,232 788,359 788,305 " style="fill:none;stroke:rgb(255,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="714,89 598,89 598,243 " style="fill:none;stroke:rgb(255,0,0);stroke-width:5;fill-rule:evenodd;" />
+<text dominant-baseline="middle"  x="714.335664" y="89.860140" font-size="15">DT1</text>
+<text dominant-baseline="middle"  x="675.874126" y="89.860140" font-size="15">X1</text>
+<text dominant-baseline="middle"  x="598.951049" y="89.860140" font-size="15">M10</text>
+<text dominant-baseline="middle"  x="710.489510" y="232.167832" font-size="15">Camera2</text>
+<text dominant-baseline="middle"  x="827.412587" y="279.860140" font-size="15">L4</text>
+<text dominant-baseline="middle"  x="788.951049" y="359.090909" font-size="15">M9</text>
+<text dominant-baseline="middle"  x="576.643356" y="348.321678" font-size="15">Camera1</text>
+<text dominant-baseline="middle"  x="715.104895" y="363.706294" font-size="15">M8</text>
+<text dominant-baseline="middle"  x="195.104895" y="363.706294" font-size="15">M7</text>
+<text dominant-baseline="middle"  x="195.104895" y="332.937063" font-size="15">L3</text>
+<text dominant-baseline="middle"  x="912.027972" y="305.244755" font-size="15">Exit</text>
+<text dominant-baseline="middle"  x="788.951049" y="305.244755" font-size="15">M6</text>
+<text dominant-baseline="middle"  x="72.027972" y="179.090909" font-size="15">M5</text>
+<text dominant-baseline="middle"  x="72.027972" y="243.706294" font-size="15">PR4</text>
+<text dominant-baseline="middle"  x="133.566433" y="305.244755" font-size="15">PR3</text>
+<text dominant-baseline="middle"  x="306.643356" y="328.321678" font-size="15">G4</text>
+<text dominant-baseline="middle"  x="468.181818" y="197.552448" font-size="15">G3</text>
+<text dominant-baseline="middle"  x="410.489510" y="336.013986" font-size="15">G2</text>
+<text dominant-baseline="middle"  x="614.335664" y="182.167832" font-size="15">G1</text>
+<text dominant-baseline="middle"  x="730.489510" y="166.783217" font-size="15">PR2</text>
+<text dominant-baseline="middle"  x="773.566433" y="197.552448" font-size="15">PR1</text>
+<text dominant-baseline="middle"  x="788.951049" y="243.706294" font-size="15">M4</text>
+<text dominant-baseline="middle"  x="752.797203" y="243.706294" font-size="15">L2</text>
+<text dominant-baseline="middle"  x="729.720280" y="243.706294" font-size="15">I2</text>
+<text dominant-baseline="middle"  x="691.258741" y="243.706294" font-size="15">L1</text>
+<text dominant-baseline="middle"  x="598.951049" y="243.706294" font-size="15">SP1</text>
+<text dominant-baseline="middle"  x="275.874126" y="243.706294" font-size="15">I1</text>
+<text dominant-baseline="middle"  x="195.104895" y="243.706294" font-size="15">M3</text>
+<text dominant-baseline="middle"  x="195.104895" y="178.321678" font-size="15">M2</text>
+<text dominant-baseline="middle"  x="248.951049" y="178.321678" font-size="15">M1</text>
+<text dominant-baseline="middle"  x="248.951049" y="116.783217" font-size="15">Enter</text>
+
+</svg>
+
+
+

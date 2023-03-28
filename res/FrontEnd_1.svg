@@ -1,0 +1,73 @@
+
+<svg xmlns="http://www.w3.org/2000/svg"  viewBox="0 0 1000 321.4285714285714" style="overflow: hidden;border: 2px solid #888888;"> 
+<polygon points="429,29 429,136 201,136 201,29 429,29 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="529,87 529,78 533,78 533,87 529,87 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="529,180 529,170 533,170 533,180 529,180 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="429,87 429,78 433,78 433,87 429,87 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="272,180 272,170 276,170 276,180 272,180 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="272,222 272,213 276,213 276,222 272,222 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="226,222 226,213 229,213 229,222 226,222 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="165,222 165,213 169,213 169,222 165,222 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<polygon points="129,222 129,213 133,213 133,222 129,222 " style="fill:rgb(0,0,0);stroke:black;stroke-width:5;fill-rule:evenodd;" />
+<text dominant-baseline="middle"  x="340.684316" y="257.617383" font-size="15">M6</text>
+<text dominant-baseline="middle"  x="129.970030" y="239.760240" font-size="15">M7</text>
+<text dominant-baseline="middle"  x="94.255744" y="227.617383" font-size="15">M8</text>
+<text dominant-baseline="middle"  x="395.684316" y="221.903097" font-size="15">M9</text>
+<text dominant-baseline="middle"  x="133.541459" y="214.760240" font-size="15">M10</text>
+<text dominant-baseline="middle"  x="419.255744" y="229.045954" font-size="15">OC1</text>
+<text dominant-baseline="middle"  x="444.255744" y="229.045954" font-size="15">SP1</text>
+<text dominant-baseline="middle"  x="444.255744" y="218.331668" font-size="15">DF1</text>
+<text dominant-baseline="middle"  x="444.255744" y="136.188811" font-size="15">DT1</text>
+<text dominant-baseline="middle"  x="426.398601" y="229.045954" font-size="15">PL1</text>
+<text dominant-baseline="middle"  x="565.684316" y="229.045954" font-size="15">M11</text>
+<text dominant-baseline="middle"  x="565.684316" y="129.045954" font-size="15">M12</text>
+<text dominant-baseline="middle"  x="579.970030" y="129.045954" font-size="15">P2</text>
+<text dominant-baseline="middle"  x="629.970030" y="129.045954" font-size="15">F1</text>
+<text dominant-baseline="middle"  x="785.327173" y="129.045954" font-size="15">X1</text>
+<text dominant-baseline="middle"  x="856.755744" y="129.045954" font-size="15">X2</text>
+<text dominant-baseline="middle"  x="863.898601" y="129.045954" font-size="15">X3</text>
+<text dominant-baseline="middle"  x="906.755744" y="129.045954" font-size="15">P3</text>
+<text dominant-baseline="middle"  x="738.898601" y="129.045954" font-size="15">M13</text>
+<text dominant-baseline="middle"  x="738.898601" y="79.045954" font-size="15">M14</text>
+<text dominant-baseline="middle"  x="617.470030" y="79.045954" font-size="15">M15</text>
+<text dominant-baseline="middle"  x="147.827173" y="218.331668" font-size="15">TS1</text>
+<polyline points="129,218 165,218 272,218 272,175 529,175 529,82 429,82 " style="fill:none;stroke:rgb(0,255,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="617,164 617,79 738,79 738,129 906,129 579,129 565,129 565,229 454,229 440,229 419,229 " style="fill:none;stroke:rgb(255,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="454,107 454,214 454,229 " style="fill:none;stroke:rgb(255,0,0);stroke-width:5;fill-rule:evenodd;" />
+<polyline points="419,229 94,227 395,221 133,214 165,218 129,218 340,257 129,239 340,257 129,218 165,218 " style="fill:none;stroke:rgb(255,0,0);stroke-width:5;fill-rule:evenodd;" />
+<text dominant-baseline="middle"  x="429.970030" y="154.045954" font-size="15">O</text>
+<text dominant-baseline="middle"  x="617.470030" y="164.760240" font-size="15">Exit</text>
+<text dominant-baseline="middle"  x="565.684316" y="79.045954" font-size="15">M16</text>
+<text dominant-baseline="middle"  x="537.112887" y="79.045954" font-size="15">DT2</text>
+<polyline points="537,79 565,79 565,129 " style="fill:none;stroke:rgb(255,0,0);stroke-width:5;fill-rule:evenodd;" />
+<text dominant-baseline="middle"  x="537.112887" y="79.045954" font-size="15">DT2</text>
+<text dominant-baseline="middle"  x="565.684316" y="79.045954" font-size="15">M16</text>
+<text dominant-baseline="middle"  x="617.470030" y="164.760240" font-size="15">Exit</text>
+<text dominant-baseline="middle"  x="429.970030" y="154.045954" font-size="15">O</text>
+<text dominant-baseline="middle"  x="147.827173" y="218.331668" font-size="15">TS1</text>
+<text dominant-baseline="middle"  x="617.470030" y="79.045954" font-size="15">M15</text>
+<text dominant-baseline="middle"  x="738.898601" y="79.045954" font-size="15">M14</text>
+<text dominant-baseline="middle"  x="738.898601" y="129.045954" font-size="15">M13</text>
+<text dominant-baseline="middle"  x="906.755744" y="129.045954" font-size="15">P3</text>
+<text dominant-baseline="middle"  x="863.898601" y="129.045954" font-size="15">X3</text>
+<text dominant-baseline="middle"  x="856.755744" y="129.045954" font-size="15">X2</text>
+<text dominant-baseline="middle"  x="785.327173" y="129.045954" font-size="15">X1</text>
+<text dominant-baseline="middle"  x="629.970030" y="129.045954" font-size="15">F1</text>
+<text dominant-baseline="middle"  x="579.970030" y="129.045954" font-size="15">P2</text>
+<text dominant-baseline="middle"  x="565.684316" y="129.045954" font-size="15">M12</text>
+<text dominant-baseline="middle"  x="565.684316" y="229.045954" font-size="15">M11</text>
+<text dominant-baseline="middle"  x="426.398601" y="229.045954" font-size="15">PL1</text>
+<text dominant-baseline="middle"  x="444.255744" y="136.188811" font-size="15">DT1</text>
+<text dominant-baseline="middle"  x="444.255744" y="218.331668" font-size="15">DF1</text>
+<text dominant-baseline="middle"  x="444.255744" y="229.045954" font-size="15">SP1</text>
+<text dominant-baseline="middle"  x="419.255744" y="229.045954" font-size="15">OC1</text>
+<text dominant-baseline="middle"  x="133.541459" y="214.760240" font-size="15">M10</text>
+<text dominant-baseline="middle"  x="395.684316" y="221.903097" font-size="15">M9</text>
+<text dominant-baseline="middle"  x="94.255744" y="227.617383" font-size="15">M8</text>
+<text dominant-baseline="middle"  x="129.970030" y="239.760240" font-size="15">M7</text>
+<text dominant-baseline="middle"  x="340.684316" y="257.617383" font-size="15">M6</text>
+
+</svg>
+
+
+
