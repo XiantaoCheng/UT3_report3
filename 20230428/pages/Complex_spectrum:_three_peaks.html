@@ -9,6 +9,9 @@ LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
   <head>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="../js/OrbitControls.js"></script>
+<script type="text/javascript" src="../js/threeWorld.js"></script>
 
 
 <script>
@@ -19,11 +22,11 @@ window.addEventListener("keydown", function (event) {
   switch (event.key) {
     case "Left": // IE/Edge specific value
     case "ArrowLeft":
-      window.location="../pages/UT3_spectrometer.html";
+      window.location="../pages/Double_peak_spectrum:_changing_peak_intensity.html";
       break;
     case "Right": // IE/Edge specific value
     case "ArrowRight":
-      window.location="../pages/LWFA8_data:_Al.html";
+      window.location="../pages/Complex_spectrum:_peak_and_tail.html";
       break;
     default:
       return; // Quit when this doesn't handle the key event.
@@ -44,15 +47,23 @@ window.addEventListener("keydown", function (event) {
 
 <body>
 <div class="topnav">
-  <a href="../pages/UT3_spectrometer.html">Prev</a>
+  <a href="../pages/Double_peak_spectrum:_changing_peak_intensity.html">Prev</a>
   <a href="../index.html">Home</a>
-  <a href="../pages/LWFA8_data:_Al.html">Next</a>
+  <a href="../pages/Complex_spectrum:_peak_and_tail.html">Next</a>
 </div>
 
 
 <div class="content">
     <p><mathjax style=\"font-size:1.5em\">
-<h1>Short updates</h1>
+
+<h1>Complex spectrum: three peaks</h1>
+<img src="../res/fig.5a_.png" width="95%"><br>
+
+<img src="../res/fig.5b_.png" width="95%"><br>
+
+
+
+
     </mathjax></p>
 </div>
 
@@ -62,6 +73,3 @@ window.addEventListener("keydown", function (event) {
 
 </body>
 </html>
-
-
-
