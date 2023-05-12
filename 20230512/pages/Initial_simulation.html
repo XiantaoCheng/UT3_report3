@@ -9,6 +9,9 @@ LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
   <head>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="../js/OrbitControls.js"></script>
+<script type="text/javascript" src="../js/threeWorld.js"></script>
 
 
 <script>
@@ -19,11 +22,11 @@ window.addEventListener("keydown", function (event) {
   switch (event.key) {
     case "Left": // IE/Edge specific value
     case "ArrowLeft":
-      window.location="../pages/Spectrum_rebuilt_from_scattering_electrons.html";
+      window.location="../pages/title.html";
       break;
     case "Right": // IE/Edge specific value
     case "ArrowRight":
-      window.location="../pages/12009_IP_re-construction.html";
+      window.location="../pages/Density_scanning.html";
       break;
     default:
       return; // Quit when this doesn't handle the key event.
@@ -44,15 +47,32 @@ window.addEventListener("keydown", function (event) {
 
 <body>
 <div class="topnav">
-  <a href="../pages/Spectrum_rebuilt_from_scattering_electrons.html">Prev</a>
+  <a href="../pages/title.html">Prev</a>
   <a href="../index.html">Home</a>
-  <a href="../pages/12009_IP_re-construction.html">Next</a>
+  <a href="../pages/Density_scanning.html">Next</a>
 </div>
 
 
 <div class="content">
     <p><mathjax style=\"font-size:1.5em\">
-<h1>Shadow spectrometer</h1>
+
+<h1>Initial simulation</h1>
+Laser:<br>
+$$<br>
+\lambda=9.2\ \mu m,\ a_0=1.7,\ \tau_{FWHM}=1.8\ ps,\ w_0=60\ \mu m<br>
+$$<br>
+No plasma<br>
+<img src="../res/BNL_0.gif" width="95%"><br>
+
+Plasma:<br>
+$$<br>
+n_e=1.4\times 10^{17}\ cm^{-3}<br>
+$$<br>
+<img src="../res/BNL_1.gif" width="95%"><br>
+
+
+
+
     </mathjax></p>
 </div>
 
@@ -62,6 +82,3 @@ window.addEventListener("keydown", function (event) {
 
 </body>
 </html>
-
-
-
