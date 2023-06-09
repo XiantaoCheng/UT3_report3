@@ -9,6 +9,9 @@ LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
   <head>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="../js/OrbitControls.js"></script>
+<script type="text/javascript" src="../js/threeWorld.js"></script>
 
 
 <script>
@@ -19,11 +22,11 @@ window.addEventListener("keydown", function (event) {
   switch (event.key) {
     case "Left": // IE/Edge specific value
     case "ArrowLeft":
-      window.location="../pages/BNL_simulations.html";
+      window.location="../pages/title.html";
       break;
     case "Right": // IE/Edge specific value
     case "ArrowRight":
-      window.location="../pages/CM_simulations.html";
+      window.location="../pages/Gaussian_beam_expansion.html";
       break;
     default:
       return; // Quit when this doesn't handle the key event.
@@ -44,15 +47,51 @@ window.addEventListener("keydown", function (event) {
 
 <body>
 <div class="topnav">
-  <a href="../pages/BNL_simulations.html">Prev</a>
+  <a href="../pages/title.html">Prev</a>
   <a href="../index.html">Home</a>
-  <a href="../pages/CM_simulations.html">Next</a>
+  <a href="../pages/Gaussian_beam_expansion.html">Next</a>
 </div>
 
 
 <div class="content">
     <p><mathjax style=\"font-size:1.5em\">
-<h1>CM and BNL simulations</h1>
+
+<h1>Scattered electron distribution</h1>
+By using GEANT4 simulations, we found monoenergetic electrons scattered by a fiducial wire distribute in a Gaussian distribution,<br>
+
+$$
+f \left( \theta \right)=e^{-\theta^{2}/\sigma^{2}}
+\tag{1}
+$$
+
+The \(\sigma\) of the Gaussian distribution is a function of incoming electron energy. <br>
+
+$$
+\sigma \left( E,d \right)=A \left( d \right)/E
+\tag{2}
+$$
+
+<img src="../res/影子图.png" width="95%"><br>
+
+After running a large amount of simulations with fiducials having different diameters, we found the relation,<br>
+
+$$
+A \left( d \right)=207\ d^{0.5582}
+\tag{3}
+$$
+
+<img src="../res/散射图.png" width="95%"><br>
+
+which means, electron beams with arbitrary spectrum will be scattered in the following distribution,<br>
+
+$$
+f \left( \theta \right)=\sum_{n}{A\ _{n}\ exp \left( -\theta^{2}/\sigma\ _{n}^{2} \right)}
+\tag{4}
+$$
+
+
+
+
     </mathjax></p>
 </div>
 
@@ -62,6 +101,3 @@ window.addEventListener("keydown", function (event) {
 
 </body>
 </html>
-
-
-
