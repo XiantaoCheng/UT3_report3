@@ -9,6 +9,9 @@ LaTeX数学记号::https://oeis.org/wiki/List_of_LaTeX_mathematical_symbols
   <head>
 <script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.5/MathJax.js?config=TeX-AMS-MML_HTMLorMML"></script>
+<script src="https://stemkoski.github.io/Three.js/js/Three.js"></script>
+<script src="../js/OrbitControls.js"></script>
+<script type="text/javascript" src="../js/threeWorld.js"></script>
 
 
 <script>
@@ -19,11 +22,11 @@ window.addEventListener("keydown", function (event) {
   switch (event.key) {
     case "Left": // IE/Edge specific value
     case "ArrowLeft":
-      window.location="../pages/CM_experiment_simulation:_magnetic_field_pattern.html";
+      window.location="../pages/Wavelength_scan:_walkoff.html";
       break;
     case "Right": // IE/Edge specific value
     case "ArrowRight":
-      window.location="../pages/Review.html";
+      window.location="../pages/Density_scan:_results.html";
       break;
     default:
       return; // Quit when this doesn't handle the key event.
@@ -44,15 +47,28 @@ window.addEventListener("keydown", function (event) {
 
 <body>
 <div class="topnav">
-  <a href="../pages/CM_experiment_simulation:_magnetic_field_pattern.html">Prev</a>
+  <a href="../pages/Wavelength_scan:_walkoff.html">Prev</a>
   <a href="../index.html">Home</a>
-  <a href="../pages/Review.html">Next</a>
+  <a href="../pages/Density_scan:_results.html">Next</a>
 </div>
 
 
 <div class="content">
     <p><mathjax style=\"font-size:1.5em\">
-<h1>Probe theory and CM experiment simulation</h1>
+
+<h1>Wavelength scan: intensity</h1>
+Relation:<br>
+
+$$
+\Delta \phi=A \frac{L}{\lambda_{plasma} \omega_{probe}} \frac{\partial v_{x}}{\partial y}
+\tag{1}
+$$
+
+<img src="../res/fig.3_.png" width="95%"><br>
+
+
+
+
     </mathjax></p>
 </div>
 
@@ -62,6 +78,3 @@ window.addEventListener("keydown", function (event) {
 
 </body>
 </html>
-
-
-
